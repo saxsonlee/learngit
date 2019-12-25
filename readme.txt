@@ -5,4 +5,3 @@ Git adad
 Create a new branch is quick and simple and nothing
 6a3113c561
 123456
-1
